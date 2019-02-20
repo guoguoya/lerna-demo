@@ -12,5 +12,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "test-p-module-2": "^0.0.1"
-  }
+  },
+  "gitHead": "f32f0ffc76974280010a635b7806093d751af86f"
 }
